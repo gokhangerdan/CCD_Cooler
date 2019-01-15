@@ -1,0 +1,56 @@
+C:\Users\szgn\Desktop\serialport\serialport\bin\Debug\serialport.exe.config
+C:\Users\szgn\Desktop\serialport\serialport\bin\Debug\serialport.exe
+C:\Users\szgn\Desktop\serialport\serialport\bin\Debug\serialport.pdb
+C:\Users\szgn\Desktop\serialport\serialport\bin\Debug\serialport.xml
+C:\Users\szgn\Desktop\serialport\serialport\obj\Debug\serialport.frmMain.resources
+C:\Users\szgn\Desktop\serialport\serialport\obj\Debug\serialport.Resources.resources
+C:\Users\szgn\Desktop\serialport\serialport\obj\Debug\serialport.vbproj.GenerateResource.Cache
+C:\Users\szgn\Desktop\serialport\serialport\obj\Debug\serialport.exe
+C:\Users\szgn\Desktop\serialport\serialport\obj\Debug\serialport.xml
+C:\Users\szgn\Desktop\serialport\serialport\obj\Debug\serialport.pdb
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\bin\Debug\serialport.exe.config
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\obj\Debug\serialport.exe
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\obj\Debug\serialport.xml
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\obj\Debug\serialport.pdb
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\bin\Debug\serialport.exe
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\bin\Debug\serialport.pdb
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\bin\Debug\serialport.xml
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\obj\Debug\serialport.vbprojResolveAssemblyReference.cache
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\obj\Debug\serialport.frmMain.resources
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\obj\Debug\serialport.Resources.resources
+C:\Users\szgn\Desktop\VİSUAL BASIC SICAKLIK KONTROL\serialport\serialport\obj\Debug\serialport.vbproj.GenerateResource.Cache
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\bin\Debug\serialport.exe.config
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.exe
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.xml
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.pdb
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\bin\Debug\serialport.exe
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\bin\Debug\serialport.pdb
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\bin\Debug\serialport.xml
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.vbprojResolveAssemblyReference.cache
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.frmMain.resources
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.Resources.resources
+C:\Users\szgn\Desktop\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.vbproj.GenerateResource.Cache
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\bin\Debug\serialport.exe.config
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.exe
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.xml
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.pdb
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\bin\Debug\serialport.exe
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\bin\Debug\serialport.pdb
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\bin\Debug\serialport.xml
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.vbprojResolveAssemblyReference.cache
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.frmMain.resources
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.Resources.resources
+C:\Users\gokha\Desktop\SICAKLIK-NEM-KONTROL\SICAKLIK NEM PROJESİ\serialport\serialport\obj\Debug\serialport.vbproj.GenerateResource.Cache
+C:\Users\gokha\Desktop\serialport\serialport\bin\Debug\serialport.exe.config
+C:\Users\gokha\Desktop\serialport\serialport\obj\Debug\serialport.exe
+C:\Users\gokha\Desktop\serialport\serialport\obj\Debug\serialport.xml
+C:\Users\gokha\Desktop\serialport\serialport\obj\Debug\serialport.pdb
+C:\Users\gokha\Desktop\serialport\serialport\bin\Debug\serialport.exe
+C:\Users\gokha\Desktop\serialport\serialport\bin\Debug\serialport.pdb
+C:\Users\gokha\Desktop\serialport\serialport\bin\Debug\serialport.xml
+C:\Users\gokha\Desktop\serialport\serialport\obj\Debug\serialport.vbprojResolveAssemblyReference.cache
+C:\Users\gokha\Desktop\serialport\serialport\obj\Debug\serialport.frmMain.resources
+C:\Users\gokha\Desktop\serialport\serialport\obj\Debug\serialport.Resources.resources
+C:\Users\gokha\Desktop\serialport\serialport\obj\Debug\serialport.vbproj.GenerateResource.Cache
+C:\Users\gokha\Desktop\serialport\serialport\bin\Debug\AGauge.dll
+C:\Users\gokha\Desktop\serialport\serialport\bin\Debug\AGauge.pdb
