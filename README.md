@@ -1,2 +1,6 @@
 # CCD_Cooler
 THERMOELECTRIC COOLER DESIGN FOR CCD CAMERAS
+
+RESULT
+
+<img src="result.png">
